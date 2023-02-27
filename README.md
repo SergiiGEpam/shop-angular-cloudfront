@@ -29,3 +29,10 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Links
+
+S3 bucket - http://my-angular-new-app.s3-website-eu-west-1.amazonaws.com/
+Closed for external access
+
+FE available via CloudFront - https://di9m6iw5h9ek7.cloudfront.net/
